@@ -1,7 +1,0 @@
-{
-  "test_accuracy": 0.9859857559204102,
-  "test_loss": 0.053780026733875275,
-  "num_classes": 43,
-  "img_size": 32,
-  "total_params": 1361099
-}
